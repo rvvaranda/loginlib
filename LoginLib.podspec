@@ -91,6 +91,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
+  spec.swift_versions = ['5.0', '5.1']
+
   spec.source_files  = "LoginLib/*"
   spec.exclude_files = "Classes/Exclude"
 
