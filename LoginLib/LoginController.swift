@@ -8,7 +8,9 @@
 
 import Foundation
 
-class LoginView: NSObject {
+public final class LoginLib {
+    
+    let name = "LoginLib"
 
     func userAuth(_ login: String, pwd: String) -> Bool {
         
