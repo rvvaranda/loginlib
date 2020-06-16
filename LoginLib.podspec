@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  DESCRICAO DO POD
+  DESCRICAO DO POD TEM SER MAIOR SE NÃO DA ERRO NA VALIDAÇÃO, VALID E VALID E VALID DE NOVO.
                    DESC
 
   spec.homepage     = "http://www.app2mobile.com.br"
